@@ -28,4 +28,4 @@ result = binary_search(random_list, target)
 if result != -1:
     print(f"Число {target} найдено на позиции {result}.")
 else:
-    print(f"Число {target} отсутствует в списке.")
+    print(f"Число {target} отсутствует в списке (-1).")
